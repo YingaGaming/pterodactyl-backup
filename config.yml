@@ -1,0 +1,5 @@
+# Your Client API Key
+key: "<YOUR_API_KEY>"
+
+# The endpoint of your panel
+endpoint: "https://panel.yinga.games"
